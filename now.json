@@ -1,0 +1,8 @@
+{
+  "env": {
+    "VALPAS_AWS_ACCESS_KEY_ID": "@aws_access_key_id",
+    "VALPAS_AWS_SECRET_ACCESS_KEY": "@aws_secret_access_key",
+    "VALPAS_STAYSAFE_AIRTABLE_SECRET": "@valpas_staysafe_airtable_secret",
+    "VALPAS_STAYSAFE_AIRTABLE_BASE": "@valpas_staysafe_airtable_base"
+  }
+}
